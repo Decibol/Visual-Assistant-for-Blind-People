@@ -19,6 +19,6 @@ An LLM-powered visual assistant for partially or fully blind people that process
 
 ## Features
 - Real-time object detection using YOLOv8
-- Context-aware scene descriptions using GPT-3.5
+- Context-aware scene descriptions using local LLM
 - Text-to-speech with adjustable settings
 - Simple GUI with start/stop control
