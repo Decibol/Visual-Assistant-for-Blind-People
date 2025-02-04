@@ -6,9 +6,6 @@ An LLM-powered visual assistant for partially or fully blind people that process
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-3. Create a `.env` file with your OpenAI API key:
-   ```env
-   OPENAI_API_KEY=your_api_key_here
 
 ## Usage
 1. Run the application:
