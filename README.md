@@ -3,7 +3,7 @@ An LLM-powered visual assistant for partially or fully blind people that process
 
 ## Installation
 1. Clone the repository
-2. Install dependencies:
+2. Install all dependencies:
    ```bash
    pip install -r requirements.txt
 
